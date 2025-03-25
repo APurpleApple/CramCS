@@ -1,4 +1,4 @@
-This is CramCS, a C# interop library for the [Wellspring](https://gitea.moonside.games/MoonsideGames/Cram) texture packing system.
+This is CramCS, a C# interop library for the [Cram](https://gitea.moonside.games/MoonsideGames/Cram) texture packing system.
 
 License
 -------
